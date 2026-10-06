@@ -1,10 +1,10 @@
-# Central de Integração de Dados KSI–BI
+# Central de Integração de Dados KSI-BI
 
 > **Repositório vitrine.** Apenas apresentação do projeto. O código-fonte é privado. Autor: Caio Alba de Camargo.
 
 ## 1. Visão geral e problema que resolve
 
-A Central de Integração de Dados KSI–BI é uma aplicação autônoma de governança, aquisição e monitoramento projetada para assegurar o ciclo de vida da extração de dados do sistema de gestão corporativo para o ecossistema de Business Intelligence.
+A Central de Integração de Dados KSI-BI é uma aplicação autônoma de governança, aquisição e monitoramento projetada para assegurar o ciclo de vida da extração de dados do sistema de gestão corporativo para o ecossistema de Business Intelligence.
 
 Em ambientes corporativos que dependem de dados analíticos diários, o processo de obtenção de cópias de segurança do ERP frequentemente sofre com a falta de visibilidade operacional, ausência de trilha de auditoria e dependência de rotinas cegas em segundo plano. Problemas como falhas silenciosas de autenticação no portal do fornecedor, aquisição inadvertida de backups defasados gerados em dias anteriores ou interrupção de transferências volumosas deixam os painéis de decisão desatualizados sem que a equipe técnica seja avisada a tempo.
 
@@ -115,6 +115,6 @@ flowchart TD
 
 ---
 
-Portfólio: [maiko-ia.com.br](https://maiko-ia.com.br)
+Portfólio: [MaiKO-IA.com.br](https://maiko-ia.com.br)
 
 Autor: [Caio Alba de Camargo](https://github.com/caioalba)
